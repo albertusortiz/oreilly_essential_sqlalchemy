@@ -11,3 +11,10 @@
 
 # Notes
 
+## “Choosing Between SQLAlchemy Core and ORM”
+
+- “The choice of using SQLAlchemy Core or ORM as the dominant data access layer for an application often comes down to a few factors and personal preference”
+
+- “The two modes use slightly different syntax, but the biggest difference between Core and ORM is the view of data as schema or business objects.”
+
+- 
